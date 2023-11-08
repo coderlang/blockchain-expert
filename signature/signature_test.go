@@ -10,6 +10,10 @@ import (
 
 func Test_Sign_Plaintext(t *testing.T) {
 	var coderlangPrivateKey = "64946dbe03f1b8bcfacc95a7242da55e16cf2b9536d249414520f2cf8017ef1a"
+	key, err := crypto.GenerateKey()
+	if err != nil {
+		return
+	}
 	privateKey, err := crypto.HexToECDSA(coderlangPrivateKey)
 	if err != nil {
 		panic(fmt.Sprintf("privateKey %s err=%v", coderlangPrivateKey, err))
