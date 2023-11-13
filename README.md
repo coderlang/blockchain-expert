@@ -13,3 +13,9 @@ coderlang 简介：一个 35 岁大龄程序员，无大厂、学历背景，CTO
 
 [02-智能合约及智能合约的应用.md](02-contract%2F%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%8F%8A%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E7%9A%84%E5%BA%94%E7%94%A8.md)
 
+[03-智能合约应用--中心化钱包.md](03-contract%2F%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%BA%94%E7%94%A8--%E4%B8%AD%E5%BF%83%E5%8C%96%E9%92%B1%E5%8C%85.md)
+
+[04-智能合约应用--L3 区块链及锚定.md](04-contract%2F%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%BA%94%E7%94%A8--L3%20%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8F%8A%E9%94%9A%E5%AE%9A.md)
+
+**联系方式：**  
+![contact_coderlang.jpg](contact_coderlang.jpg)
